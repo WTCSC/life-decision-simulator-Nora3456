@@ -1,0 +1,4 @@
+This is a game that goes through a series of decisions that change your final destiny. The decisions relate to things in your everyday life (for the most part). Once you have no more decisions left to choose from, your destiny will be displayed. 
+
+How to play the game:
+The game will start by asking you to choose between 2 paths. Based on which path you choose, the next paths and decisions will change. Every question has at least 2 paths for you to decide from (some have three). The questions will give you the what you can pick, each path has a "1", "2", (some have a "3"), to pick that path type one of the numbers into your terminal, and then press enter. This will cause the next set of questions and paths to display, and repeat the previous process. The game ends after there is no more decisions left to decide, and a final result/destiny is displayed.  
