@@ -3,7 +3,7 @@ print ("*To make a decision, type 1, 2 (or 3) according to how many choices you 
 print ("Your next decision might change your destiny...")
 Q1 = input(f"Do you decide to 1; sleep in or 2: get up?:")
 
-
+#hello
 # decision path #1
 # if question 1 = decision 1
 if (Q1 == '1'):
