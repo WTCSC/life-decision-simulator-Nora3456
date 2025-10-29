@@ -39,4 +39,6 @@ Below is a detailed step-by-step walkthrough of how to play the life decision si
 <br>
 Anyways... I get it, you were hoping for a different outcome, well don't worry! You can run the code again, by changing **just *1*** adventure choice differently from your choices on your previous simulator, your destiny can be changed! 
 ...Sure some may say "it's fate" and "you can't change your destiny", well I say you can!
+
+## Happy Playing!
  
