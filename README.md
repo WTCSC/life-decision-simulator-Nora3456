@@ -42,3 +42,4 @@ Anyways... I get it, you were hoping for a different outcome, well don't worry! 
 
 ## Happy Playing!
  
+ <img src="Destiny.gif" alt="Photo gif of Darth Vader saying If that is your destiny." width="200"/>  <img src="choices.gif" alt="Photo gif of person looking between 2 optiions, a diamond or scribble." width="200"/>
